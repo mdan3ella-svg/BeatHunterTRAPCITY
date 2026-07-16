@@ -1,0 +1,18 @@
+{
+  "name": "TRAP CITY // BEAT HUNTER — Audio DLC Pack",
+  "version": "1.0",
+  "note": "Optional. Drop royalty-free trap .mp3 one-shots into stems/ and list them here. If a file is missing or this manifest is absent, the game auto-falls back to its built-in procedural synth. Each stem is triggered per sequencer step and pitch-shifted for melodic layers.",
+  "stems": {
+    "kick":    "stems/kick.mp3",
+    "hat":     "stems/hat.mp3",
+    "snare":   "stems/snare.mp3",
+    "openhat": "stems/openhat.mp3",
+    "perc":    "stems/perc.mp3",
+    "i808":    "stems/808.mp3",
+    "bass":    "stems/sub.mp3",
+    "pad":     "stems/pad.mp3",
+    "lead":    "stems/lead.mp3",
+    "vox":     "stems/vox.mp3",
+    "fx":      "stems/fx.mp3"
+  }
+}
