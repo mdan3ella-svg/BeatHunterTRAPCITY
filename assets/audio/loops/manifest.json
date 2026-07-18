@@ -1,6 +1,0 @@
-{
-  "name": "TRAP CITY // BEAT HUNTER — Beatpad Loops",
-  "version": "1.0",
-  "note": "Optional. Drop royalty-free/CC0 loop .mp3 files into this folder, list them below, and they'll auto-load onto the DAW beatpad on next page load. If this list is empty, the beatpad just starts with empty importable pads (drag/drop or 'IMPORT MP3' in-session).",
-  "loops": []
-}
